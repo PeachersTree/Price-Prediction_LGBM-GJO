@@ -42,3 +42,5 @@ Adds to the literature on technology-based rental platforms, particularly in pre
 - Optimization: Custom implementation of Golden Jackal Optimization  
 - IDE: Visual Studio Code (with Jupyter extension)
 
+
+*Due to various reasons, the review data and sentiment analysis results are not published here*
